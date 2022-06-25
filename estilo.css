@@ -1,0 +1,202 @@
+.header{
+    background-color: black;
+    color:white;
+    display: flex;
+    justify-content: space-between;
+    height: 50%;
+    flex-wrap:wrap;}
+    
+    .menu{height:inherit;}
+    
+    .header ol{display:flex;
+    height:inherit;}
+    
+    .header ol li{height:inherit;}
+    
+    .header a {display:flex;
+    align-items:center;
+    height:inherit;
+    padding: 0 30px;
+    color:white;
+    text-decoration:none;}
+    
+    ol,ul{
+        margin: 0px;
+        padding: 48px;
+        list-style:none;}
+    
+    body{
+        background-color:black}
+    
+    .gamer{
+        height: 400px;
+        width: 1331px;
+        background-color: grey;
+        flex-wrap: wrap;}
+    
+    .foto-image{
+        margin-right: 10%;}
+    
+    h1{
+        font-size: 40px;
+        margin-top: 0%;
+        padding-top: 0.5%;
+        line-height: 1.5em;
+        letter-spacing: 1px;
+        color: white;}
+    
+    h2{ font-size: 21px;
+        line-height: 1.5em;
+        letter-spacing: 1px;
+        color: white;}
+    
+    .evento{margin: 1%;
+        margin-left: 25%;
+        width: 100%;
+        flex-shrink: 0;
+        overflow: hidden;
+        background: rgb(13, 22, 153);}
+    
+    .evento-imagen{height: 24   0px;
+            object-fit: cover;
+            width: 110%;}
+    
+    .evento2{margin: 1%;
+                margin-left: 25%;
+                width: 100%;
+                flex-shrink: 0;
+                overflow: hidden;
+                background: rgb(13, 22, 153);}
+            
+    .evento-imagen2{height: 24   0px;
+                    object-fit: cover;
+                    width: 110%;}
+    
+    .html-video{
+        height: auto;
+        margin-top: 2%;
+        object-fit: cover;
+        width: 100%;
+    align-items: center;}
+    
+    .youtube-video{
+        height: auto;
+        object-fit: cover;
+        width: 100%;
+        align-items: center;}
+    
+    .flexible-video{
+        width: 75%;
+        height: auto;
+        background: rgb(13, 22, 153);e;
+        position: relative;}
+    
+    .flexible-video2{
+            width: 75%;
+            height: auto;
+            background:rgb(13, 22, 153);;
+            position: relative;}
+    
+    .contact{
+            font-size: 26px;
+            text-align:right;
+            display: flex;
+            background-color: rgb(240, 236, 30);
+            color: white;
+            height: 158px;
+            width: 22%;
+            margin-left: 1%;
+            justify-content: space-between;
+            flex-wrap: wrap;}
+            
+    .social{color: black;
+        font-size: 30px;
+        font-family:fantasy;
+        text-align: center;
+        height: 135px;
+        padding: 20px;
+    background-color: whitesmoke;}
+    
+    .social-link{display: inline-block;
+    }
+    h3{  font-size: 32px;
+        font-family: 'Courier New', Courier, monospace;
+        line-height: 1.5em;
+        letter-spacing: 1px;
+        color: rgb(255, 251, 0);
+        margin: -1px;
+        margin-top: 85px;
+        padding: 30px;}
+    
+    h4{  font-size: 32px;
+        font-family: 'Courier New', Courier, monospace
+            line-height: 1.5em;
+            letter-spacing: 1px;
+            color: rgb(255, 251, 0);
+            margin: -1px;
+            margin-top: 85px;
+            padding: 30px;}
+    
+    p{  font-size: 23px;
+        line-height: 1.5em;
+        letter-spacing: 1px;
+        color: white;
+        margin: -1px;
+        padding: 25px;}
+    
+    .a1{  font-size: 24px;
+        line-height: 1.5em;
+        letter-spacing: 1px;
+        color: white;
+        margin: -1px;
+        margin-top: 20px;
+        padding: 30px;}
+    
+    .experiencia{display: flex;
+            margin: 20px;
+            margin-right: 40px;
+            text-align: center;}
+        
+    .evento-detalles{
+                 margin: 7% 1%;                
+                margin-top: 75px;
+                position: relative;
+                text-align: center;}
+        
+    .evento-url{   
+           border:1px solid blue;
+           padding: 5px 20px;
+           text-decoration:none;
+           color: blue;
+           background-color: aliceblue;
+           border-radius: 5px;}
+    
+    .experiencia2{display: flex;
+            margin: 20px;
+            margin-right: 40px;
+            text-align: center;}
+        
+    .evento-detalles2{
+                 margin: 7% 1%;                
+                margin-top: 69px;
+                position: relative;
+                text-align: center;}
+        
+    .evento-url2{   
+           border:1px solid blue;
+           padding: 5px 20px;
+           text-decoration:none;
+           color: blue;
+           background-color: aliceblue;
+           border-radius: 5px;}
+    
+    .container{display: flex;}
+    
+    .footer{
+        background-color: rgb(214, 30, 30);
+        color:rgb(14, 13, 13);
+        justify-content: space-between;
+        font-size: 20px;
+        height: 90px;
+        display: flex;
+        flex-wrap:wrap;}
